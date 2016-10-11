@@ -1,0 +1,29 @@
+div {
+    display: inline-block;
+    background-color: red;
+    height: 25vh;
+    width: 25vh;
+    padding: 20px;
+        box-sizing: content-box;
+    border: 10px solid black;
+   
+        
+}
+
+body{
+    margin: 0;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+#full{
+    background: green;
+    height: 20vh;
+    width: 100vw;
+    
+    border: 10px solid black;
+    box-sizing: border-box;
+}

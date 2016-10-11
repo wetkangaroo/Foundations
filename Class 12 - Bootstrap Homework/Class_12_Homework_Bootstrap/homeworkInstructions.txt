@@ -1,0 +1,33 @@
+1. http://getbootstrap.com/components/#navbar-fixed-top
+Add a fixed to top inverted (dark) nav bar.
+	Have branding text
+	Have nav links
+	OPTIONAL: Have your menu automatically convert to a mobile style menu when the screen is sized down - Look at the bootstrap examples (http://getbootstrap.com/getting-started/#examples) and inspect or view the page's source to find code to reference.
+
+2. http://getbootstrap.com/components/#jumbotron
+Use a Jumbotron
+	Header inside
+
+3. http://getbootstrap.com/css/#grid-example-mixed
+Create a mixed size grid.
+	4 columsn across for large screens
+	2 columns across for medium and large screens
+	Single column for mobile (extra small screens)
+
+4. http://getbootstrap.com/css/#buttons-options
+	Each column should have a header, some text, and a button
+
+5. http://getbootstrap.com/css/#forms-example
+Create a form inside another jumbotron
+	Have at least three different controls, with labels, placeholder text, and a submit button
+
+6 & 7. Choose at least two more elements to include from the components (http://getbootstrap.com/components/) and/or CSS (http://getbootstrap.com/css/) sections of Bootstrap's documentation.
+	
+	
+Notes:
+	Begin with the Boostrap starting point we made on Thursday.
+	Remember, with Boostrap it's all about structuring your HTML and applying class names from the documentation.
+	If you need to add space between elements, remember to use <br/> tags.
+	No custom CSS styling was used to accomplish the example page images, but feel free to tweak colors, fonts, padding, etc if you wish to give it a personal touch.
+	Avoid applying positioning or width/heights on Boostrap controls/components to prevent having sizing issues.
+	Feel free to look at the examples on Bootstap's documentation page for ideas (http://getbootstrap.com/getting-started/#examples).

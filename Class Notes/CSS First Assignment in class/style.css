@@ -1,0 +1,88 @@
+h1 
+{
+color: red;
+    text-underline-position: right;
+    font-family: 'Baloo', cursive;
+}  
+
+div
+{
+    color: aqua;
+    background-color: red;
+        background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+html{
+    height: 100%;
+    background-image: url('http://cdn.wallpapersafari.com/38/2/3AkN0E.png');
+    background-size: contain;
+    
+
+}
+
+nav{
+    color: white;
+     font-size: 45px;
+    font-family: fantasy;
+    text-align: center;
+    animation-direction: normal;
+    border-radius: 10px;
+    border: top;
+    font-family: 'Orbitron', sans-serif;
+    position: fixed;
+    background-color: black;
+    align-items: stretch;
+    
+}
+
+img{
+    border-radius: 50px;
+    position: absolute;
+    right: 0px;
+    top: auto;
+}
+
+a {
+    border-color: darkviolet;
+}
+
+p{
+    color:white;
+    
+}
+
+#div1 {
+    color: black;
+    background-color:aquamarine;
+}
+
+#size {
+    color: red;
+    background-color: bisque;
+}
+
+#size { 
+width: 70%;
+height: 80%;
+top: 25%;
+position: relative;
+border: 5px solid blue;
+    padding: 10px;
+    box-sizing: border-box;
+    left; 25%;
+    align-content: center;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#align{
+    position: absolute;
+    text-align: center;
+    vertical-align: middle;
+    height: 50%;
+    width: 50%;
+    
+    
+}

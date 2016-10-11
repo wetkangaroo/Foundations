@@ -1,0 +1,16 @@
+.column{    
+                    width: 33.3vw;
+                    max-width: 33.3%;
+                    display: inline-block;
+                    height: 100vh;
+                    background-color: orange;
+                }
+.columnred{
+                    width: 33.3vw;
+                    max-width: 33.3%;
+                    display: inline-block;
+                    height: 100vh;
+                    background-color: yellow;
+    
+    }
+            

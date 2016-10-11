@@ -1,0 +1,83 @@
+
+
+body{
+    margin: 0;
+    background-color: #9abd67;
+}
+
+header{
+    height: 10vh;
+    background-color: #acd373;
+    width: 100vw;
+}
+
+nav{
+    height: 10vh;
+    width: 10vh; /*important to be square in vh instead of vw*/
+    background-color: #89a85c;
+    position: absolute;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+}
+
+
+
+#logo{
+    height: 7vh;
+    margin-top: 1.5vh;
+    margin-left: 5vw;
+}
+
+
+
+#menu{
+    height: 4vh;
+    margin-top: 3vh;
+    margin-left: 3vh;
+}
+
+#main{
+     text-align: center;
+    height: 90vh;
+    background-color: #9abd67;
+    background-image: url(mobile_silhouette.png.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+
+#title{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 5vmin;
+    color: #f5f5f5;
+    margin-top: 25vh;
+}
+
+#subtitle{
+    font-family: 'Droid Serif', serif;
+    font-size: 3.5vmin;
+    font-style: italic;
+    color: #f5f5f5;
+
+}
+
+.arrow{
+    width: 5vw;
+    margin-top: 5vh;
+}
+
+
+
+.links{
+    display: none;
+}
+
+#desktoparrow{
+    display: none;
+    
+    
+}
+
+

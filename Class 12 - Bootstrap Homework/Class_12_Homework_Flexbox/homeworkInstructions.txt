@@ -1,0 +1,7 @@
+For each of the three layouts, use a seperate div container using flexbox to make your lives easier.
+
+As seen in the image the three flexboxes are as follows:
+
+	1. Two divs, one taking up 75% and the other 25%.
+	2. Three divs, each taking up 1/3rd of the flexbox.
+	3. Two div, each taking up 50% of the flexbox.

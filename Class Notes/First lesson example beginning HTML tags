@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <title>Our first in class example</title>
+    ul {
+    color: blue;
+    }
+</head>
+    
+    <body>
+      <h1>This will be the first header, 2x the size of page font!!</h1>
+     Text that is not inside a tag.  This is the default size but we cannot change the attributes of it via CSS because its not in a tag.
+      <h2>This is Header 2</h2>
+      <h3>Header 3</h3>
+      <h4>Header 4</h4>
+      <h5>Header 5</h5>
+      <h6>Header 6</h6>
+      
+      <div>Inside Div</div>
+      <div>Also inside Div</div>
+      <p>This is between a p tag.</p>
+      <span>Text inside a span tag</span>
+      <span>This too is in a span taginline </span>
+      <span>This too is in a span taginline </span>
+        <br/>
+      <span>This too is in a span taginline </span>
+         <p>   
+      <div><span>span in a div tag</span><div>
+        </p>
+        <br/>
+        
+        <a href="https://www.google.com" target="blank">This is the link to my a href, ex. <b>GOOGLE</b></a>
+        <p>Text in a p tag</p>
+        <a href="http://apple.com">Apple</a>
+        <br/>
+        <img src="http://placehold.it/200x200" alt="TEST" width="100px" height="200px" />
+                                                
+                                                   
+                                                    <a href="http://yahoo.com" target="blank">
+                                                      <img src="http://placehold.it/200x200" />
+                                                      <p> Yahoo can also be clickable </p>
+                                                      <br/>
+                                                      <p> Yahoo can also be clickable </p>
+                                                   
+        </a>
+ 
+        
+        <ol start="26" type="A" reversed="reversed">
+          <li>first</li>
+            <ol type="A">
+              <li>Subset 1</li>
+              <li>Subset 2</li>
+              <a href="https://www.google.com">
+              <li>Subset 3</li></a>
+          
+              <img src="http://placehold.it/50x50" />
+              
+          </ol>
+          
+          <li>second</li>
+          <li>third</li>
+        </ol>       
+        
+        <ul>
+          <li>first</li>
+          <li>second</li>
+          <li>third</li>
+        </ul>
+        
+       <table border="5">
+         <tr>
+           <th>First</th>
+           <th>Second</th>
+           <th>Alt Name</th>
+         </tr>
+         <tr>
+           <td>Jill</td>
+           <td>Smith</td>
+         </tr>
+         <tr>
+           <td>Eve</td>
+           <td>Jackson</td>
+           
+           <td>Frederico</td>
+         </tr>
+         
+        
+   
+        
+        
+      
+      
+    </body>
+    
+    
+ </html>

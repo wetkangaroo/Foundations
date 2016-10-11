@@ -1,0 +1,53 @@
+
+nav{
+    display: none;
+}
+
+#main{
+    background-image: url(desktop_silhouette.png);
+}
+
+#mobilearrow{
+    display: none;
+}
+
+/* header{
+    height: 12.5vh;
+    width: 100vw; */
+}
+
+
+
+/* #logo{
+    height: 7vh;
+    margin-top: 2.75vh;
+    margin-left: 12.5vw;
+    left: 12vw;
+    top: 2.75; */
+
+} 
+
+#desktoparrow{
+    position: absolute;
+    display: inline-block;
+}
+
+#desktopnav{
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    float: right;
+    
+}
+a{
+    color: #f5f5f5; 
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 2.5vh;
+    font-family: "Source Sans Pro", sans-serif;
+    margin-left: 2vw;
+    vertical-align: middle;
+    line-height: 12.5vh;
+    top: 0px;
+}
